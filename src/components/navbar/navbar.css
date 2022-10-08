@@ -64,7 +64,7 @@
 .gpt3__navbar-menu {
   margin-left: 1rem;
   display: none;
-  position: relative;
+  position: sticky;
 }
 
 .gpt3__navbar-menu svg {
