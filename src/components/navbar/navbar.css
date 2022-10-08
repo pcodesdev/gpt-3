@@ -4,6 +4,8 @@
   align-items: center;
 
   padding: 2rem 6rem;
+  position: fixed;
+  height: 70px;
 }
 
 .gpt3__navbar-links {
@@ -62,9 +64,9 @@
 }
 
 .gpt3__navbar-menu {
-  margin-left: 1rem;
+  margin-left: 10rem;
   display: none;
-  position: sticky;
+  position: fixed;
 }
 
 .gpt3__navbar-menu svg {
